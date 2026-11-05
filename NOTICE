@@ -1,0 +1,12 @@
+Coco Connect releases by Coco Research. Copyright 2026 Coco Research.
+
+Third-party notices
+
+The published macOS release assets (CoCo Connect.app, v0.2.0 and v0.2.1)
+bundle the Tauri runtime. Each app binary embeds the notice below. Tauri
+remains under those licences. This repository's Apache-2.0 LICENSE does
+not replace them.
+
+Copyright 2019-2024 Tauri Programme within The Commons Conservancy
+SPDX-License-Identifier: Apache-2.0
+SPDX-License-Identifier: MIT
