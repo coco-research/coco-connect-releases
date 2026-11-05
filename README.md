@@ -13,4 +13,4 @@ the local-first installer/connector for the CoCo family.
 
 Apache License, Version 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
 
-This repository is under Apache-2.0 from the commit that adds `LICENSE`. Published tags and GitHub releases are unchanged. Third-party components bundled in the release assets keep their own notices in [NOTICE](NOTICE).
+Releases v0.2.0 and v0.2.1 were published while this README named PolyForm Noncommercial 1.0.0. From the commit that adds LICENSE, this repository is under Apache-2.0. Published tags and GitHub releases are unchanged. Third-party components bundled in the release assets keep their own notices in [NOTICE](NOTICE).
