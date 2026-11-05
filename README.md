@@ -1,5 +1,7 @@
 # CoCo Connect — Releases
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 Signed release artifacts + the auto-update feed (`latest.json`) for **CoCo Connect**,
 the local-first installer/connector for the CoCo family.
 
@@ -7,4 +9,8 @@ the local-first installer/connector for the CoCo family.
 - Download the latest `.dmg` from the [Releases](../../releases) page.
 - The app auto-updates from `latest.json` on each release (Tauri updater, minisign-signed).
 
-License: PolyForm Noncommercial 1.0.0.
+## Licence
+
+Apache License, Version 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+This repository is under Apache-2.0 from the commit that adds `LICENSE`. Published tags and GitHub releases are unchanged. Third-party components bundled in the release assets keep their own notices in [NOTICE](NOTICE).
